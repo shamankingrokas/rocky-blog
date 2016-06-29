@@ -1,1 +1,3 @@
 Repo for a basic blog application.
+
+Live link to heroku: https://rocky-blog.herokuapp.com/
